@@ -6,4 +6,5 @@
 * [巨硬家面经](ju-ying-jia-mian-jing.md)
 * [Meetup](meetup.md)
   * [0226JSMeetup](meetup/0226jsmeetup.md)
+* [Permutations, Combinations](permutations-combinations.md)
 
